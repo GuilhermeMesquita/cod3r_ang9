@@ -7,7 +7,7 @@
     },
     {
       "id": 2,
-      "name": "Caderno",
+      "name": "Caderno Jose",
       "price": 14.23
     },
     {
@@ -21,9 +21,19 @@
       "id": 4
     },
     {
-      "name": "Produto de teste NOVO",
-      "price": 125.64,
+      "name": "Tapete tatanico",
+      "price": "2.00",
       "id": 5
+    },
+    {
+      "name": "Insert",
+      "price": "12.12",
+      "id": 6
+    },
+    {
+      "name": "Tapete tatanico 2",
+      "price": "80.23",
+      "id": 7
     }
   ]
 }
