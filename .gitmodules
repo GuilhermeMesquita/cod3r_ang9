@@ -1,2 +1,2 @@
 [submodule "frontend"]
-	ignore = untracked
+	ignore = dirty
