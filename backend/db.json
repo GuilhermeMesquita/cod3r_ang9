@@ -1,39 +1,9 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta",
-      "price": 5.89
-    },
-    {
-      "id": 2,
-      "name": "Caderno Jose",
-      "price": 14.23
-    },
-    {
-      "id": 3,
-      "name": "Lápis",
-      "price": 3.2
-    },
-    {
-      "name": "Produto de teste",
-      "price": 125.64,
-      "id": 4
-    },
-    {
-      "name": "Tapete tatanico",
-      "price": "2.00",
-      "id": 5
-    },
-    {
-      "name": "Insert",
-      "price": "12.12",
-      "id": 6
-    },
-    {
-      "name": "Tapete tatanico 2",
-      "price": "80.23",
-      "id": 7
+      "name": "Notebook",
+      "price": "3499.00",
+      "id": 3
     }
   ]
 }
